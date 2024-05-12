@@ -1,0 +1,10 @@
+Проведены тесты на:
+Добавление новой книги test_add_new_book_true
+Установку книге жанра test_set_book_genre_true
+Получение жанра книги по её имени test_get_book_genre_true
+Вывод списка книг с определённым жанром test_get_books_with_specific_genre_true
+Получение словаря books_genre test_get_books_genre_true
+Возвращае книги, подходящей детям test_get_books_for_children_true
+Добавление книги в Избранное test_add_book_in_favorites_true
+Удаление книги из Избранного test_delete_book_from_favorites_true
+Получение списка Избранных книг est_get_list_of_favorites_books_true
